@@ -1,10 +1,10 @@
 # Site settings
-title: LYC Blog
-SEOTitle: Rainman | blog
+title: LYC’s Blog
+SEOTitle: Rainman | Blog
 header-img: img/post-bg-desk.jpg
 email: 2602005850@qq.com
-description: "自己选择的路，跪着也要走完."
-keyword: "OIer  Algorithm"
+description: "Rainman Blog"
+keyword: "OIer, Algorithm"
 url: "http://liuyuchang.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -18,12 +18,12 @@ sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+# weibo_username:     
+zhihu_username:     rainman
+github_username:    
+facebook_username:
+jianshu_username:   
+#twitter_username:   
 
 
 
