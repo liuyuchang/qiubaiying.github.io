@@ -86,7 +86,7 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "primopan",
+        title: "PrimoPan",
         href: "http://primopan.org"
     },{
         title: "洛谷rainman",
@@ -94,5 +94,8 @@ friends: [
     },{
         title: "本质教育",
         href: "http://www.essence-edu.cn"
+    },{
+        title: "Daveed",
+        href: "http://www.daveed.com"
     }
 ]
