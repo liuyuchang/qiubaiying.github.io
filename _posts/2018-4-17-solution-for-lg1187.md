@@ -34,7 +34,7 @@ tags: 模拟
 
 int n,m,total,s,rep;
 int a[MAXN][MAXN];
-int dir[4][2]={{-1,0},{0,1},{1,0},{0,-1}};
+int dir[4][2]={-1,0,0,1,1,0,0,-1};
 void prework(){s=6*total;s-=rep;rep=0;}
 
 inline bool clear()
