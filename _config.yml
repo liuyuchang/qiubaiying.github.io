@@ -1,11 +1,10 @@
 # Site settings
 title: LYC’s Blog
-SEOTitle: Rainman | Blog
+SEOTitle: kkk | Blog
 header-img: img/post-bg-desk.jpg
-email: 2602005850@qq.com
-description: "Rainman Blog"
-keyword: "OIer, Algorithm"
-url: "http://liuyuchang.github.io"          # your host, for absolute URL
+description: " Blog"
+keyword: ""
+url: ""          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
@@ -19,7 +18,7 @@ sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in b
 RSS: false
 # weibo_username:     
 zhihu_username:  
-github_username:    liuyuchang
+github_username:   
 facebook_username:
 jianshu_username:   
 #twitter_username:   
@@ -84,13 +83,10 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "PrimoPan",
-        href: "http://primopan.org"
+friends: 
     },{
-        title: "luogu-rainman",
-        href: "https://www.luogu.org/space/show?uid=55804"
+        title: "luogu",
+        href: "https://www.luogu.org/space/show?uid=558"
     },{
         title: "Daveed",
         href: "http://www.daveed.com"
